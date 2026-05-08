@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Dream House</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+
+    <nav class="navbar navbar-dark bg-dark">
+
+        <div class="container">
+
+            <a class="navbar-brand" href="#">
+                Dream House
+            </a>
+
+        </div>
+
+    </nav>
+
+    <!-- Heading -->
+
+    <div class="container mt-5">
+
+        <h1 class="text-center">
+            Find Your Dream Home
+        </h1>
+
+        <!-- Property Card -->
+
+        <div class="row mt-4">
+
+            <div class="col-md-4">
+
+                <div class="card">
+
+                    <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+                    class="card-img-top">
+
+                    <div class="card-body">
+
+                        <h5>Luxury Apartment</h5>
+
+                        <p>Dhaka - 25 Lakh</p>
+
+                        <a href="details.html"
+                        class="btn btn-primary">
+                        View Details
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-md-4">
+
+    <div class="card">
+
+        <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+        class="card-img-top">
+
+        <div class="card-body">
+
+            <h5>Luxury Apartment</h5>
+
+            <p>chittagong - 65 Lakh</p>
+
+            <a href="details.html"
+            class="btn btn-primary">
+            View Details
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+<div class="col-md-4">
+
+    <div class="card">
+
+        <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+        class="card-img-top">
+
+        <div class="card-body">
+
+            <h5>Luxury Apartment</h5>
+
+            <p>sylhet - 20 Lakh</p>
+
+            <a href="details.html"
+            class="btn btn-primary">
+            View Details
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
